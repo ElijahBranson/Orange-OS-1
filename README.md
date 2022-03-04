@@ -1,5 +1,3 @@
 # Orange-OS-1
-Welcome to Orange OS 1!
-Move the 'orange1' folder to C:\ drive root.
-Then run C:\orange1\shortcut.bat to start operating!
-Have Fun!
+![orange](https://user-images.githubusercontent.com/100821546/156673717-f563196a-cec9-4510-bab3-3d4a59db3e23.jpg)
+

@@ -3,6 +3,6 @@
 Welcome to Orange OS 1! A new home computer system invented by Elijah Branson. Use Orange OS to calculate, draw, or play video games!
 
 Downloads:
-1.0: https://ufile.io/tlru9k53
+1.0: https://ufile.io/tlru9k53                                                                                                                                                     
 1.1: COMING SOON
 1.2: COMING SOON
